@@ -397,3 +397,27 @@ Maintenance 🔄
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer"/>
 
 </div>
+
+---
+
+<div align="center">
+
+## 💼 Open to Work
+
+🚀 I'm actively looking for opportunities as a
+
+🐍 Python Developer
+
+⚡ Django Developer
+
+🚀 FastAPI Developer
+
+💻 Backend Developer
+
+📧 Reach me anytime at
+
+**pdev3590@gmail.com**
+
+</div>
+
+---
