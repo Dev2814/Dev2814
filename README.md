@@ -146,6 +146,75 @@ class DevAmdavadi():
 
 ---
 
+<div align="center">
+
+## 💼 Open to Work
+
+🚀 I'm actively looking for opportunities as a
+
+🐍 Python Developer
+
+⚡ Django Developer
+
+🚀 FastAPI Developer
+
+💻 Backend Developer
+
+📧 Reach me anytime at
+
+**pdev3590@gmail.com**
+
+</div>
+
+---
+
+# 🌐 Coding Profiles
+
+<p align="center">
+
+<a href="https://github.com/Dev2814">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:pdev3590@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+
+```text
+Python          ████████████░░░░░   48%
+Django          ████████░░░░░░░░   24%
+FastAPI         █████░░░░░░░░░░░   12%
+SQL             ████░░░░░░░░░░░░    8%
+HTML/CSS        ██░░░░░░░░░░░░░░    5%
+Other           █░░░░░░░░░░░░░░░    3%
+
+<!--END_SECTION:waka-->
+
+
+*(You can connect WakaTime later for automatic updates.)*
+
+---
+
+# 📌 Featured Repositories
+
+```markdown
+# 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|----------|-------------|------------|
+| 🛒 UrbanBazzar | Complete E-Commerce Platform | Django, MySQL |
+| ⚡ UrbanBazzar API | REST API Backend | FastAPI |
+| 🔐 UUID Authentication | Secure Authentication System | Django REST Framework |
+| 🌐 Portfolio | Personal Portfolio Website | HTML, CSS, JS |
+
 # 🚀 Featured Projects
 
 ## 🛒 UrbanBazzar
@@ -398,26 +467,3 @@ Maintenance 🔄
 
 </div>
 
----
-
-<div align="center">
-
-## 💼 Open to Work
-
-🚀 I'm actively looking for opportunities as a
-
-🐍 Python Developer
-
-⚡ Django Developer
-
-🚀 FastAPI Developer
-
-💻 Backend Developer
-
-📧 Reach me anytime at
-
-**pdev3590@gmail.com**
-
-</div>
-
----
