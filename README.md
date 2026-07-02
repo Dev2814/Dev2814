@@ -4,9 +4,9 @@
 
 # Hi 👋, I'm Dev Amdavadi
 
-### 🚀 Python Backend Developer | Django Developer | FastAPI Developer | Backend Enthusiast
+🚀 Python Backend Engineer | Django • FastAPI • REST APIs • Web Scraping • Open Source Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Python+Developer;Backend+Developer;Django+Developer;FastAPI+Developer;REST+API+Developer;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Python+Backend+Engineer;Django+Developer;FastAPI+Developer;REST+API+Developer;Web+Scraping+Developer;Flutter+Developer;PostgreSQL+%7C+MySQL+Developer;Always+Learning+New+Technologies"/>
 
 <p>
 
@@ -22,55 +22,62 @@
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
-```python
-class DevAmdavadi():
+👋 Hi! I'm **Dev Amdavadi**, a passionate Python Backend Developer from Gujarat, India.
 
-    def __init__(self):
-        self.name = "Dev Amdavadi"
-        self.role = "Python Backend Developer"
-        self.location = "Ahmedabad, Gujarat, India 🇮🇳"
-        self.education = "B.Tech Information Technology"
-        self.cgpa = "8.85"
+🎓 B.Tech Information Technology Graduate (CGPA: 8.85)
 
-        self.languages = [
-            "Python",
-            "Java",
-            "C",
-            "C++",
-            "JavaScript"
-        ]
+💼 Backend & Web Developer Intern
 
-        self.backend = [
-            "Django",
-            "FastAPI",
-            "Django REST Framework"
-        ]
+🚀 Passionate about building scalable backend systems, REST APIs, authentication systems, automation tools, and production-ready applications.
 
-        self.database = [
-            "MySQL",
-            "PostgreSQL",
-            "SQLite"
-        ]
+💡 I enjoy solving real-world problems through clean architecture and efficient backend development.
 
-        self.tools = [
-            "Git",
-            "GitHub",
-            "VS Code",
-            "Postman",
-            "Docker"
-        ]
+🌱 Currently exploring
 
-    def current_focus(self):
-        return [
-            "Scalable Backend Systems",
-            "REST APIs",
-            "Authentication",
-            "Microservices",
-            "System Design"
-        ]
-```
+• Docker
+• Redis
+• Celery
+• PostgreSQL
+• AWS
+• Microservices
+• System Design
+
+---
+
+# 💼 Experience
+
+## Backend & Web Developer Intern
+
+🏢 NeuraMonks Technologies
+
+📅 Jan 2025 – Jun 2025
+
+- Developed scalable backend applications using Django & FastAPI
+- Built REST APIs
+- JWT Authentication
+- OTP Authentication
+- MySQL & PostgreSQL
+- Admin Dashboards
+- API Integrations
+
+---
+
+## Flutter & Backend Developer Trainee
+
+🏢 Apex Software House
+
+📅 Feb 2026 – Apr 2026
+
+- Developed production-grade backend architecture
+- Flutter Integration
+- PostgreSQL
+- Redis
+- JWT
+- RBAC
+- Rate Limiting
+- SQLAlchemy
 
 ---
 
@@ -94,55 +101,185 @@ class DevAmdavadi():
 
 ---
 
-# 🚀 Tech Stack
+🐍 Python
 
-## 👨‍💻 Programming Languages
+⚡ Django
+
+🚀 FastAPI
+
+🔗 Django REST Framework
+
+📱 Flutter
+
+⚛ React
+
+🗄 MySQL
+
+🐘 PostgreSQL
+
+💾 SQLite
+
+🔥 Firebase
+
+📦 Redis
+
+🕷 BeautifulSoup
+
+🤖 Selenium
+
+🌐 Requests
+
+🐳 Docker
+
+🐧 Linux
+
+📝 Git
+
+🐙 GitHub
+
+📮 Postman
+
+⚙ SQLAlchemy
+
+📊 Pandas
+
+📈 NumPy
+
+---
+
+# 🚀 Backend Skills
+
+✔ REST APIs
+
+✔ JWT Authentication
+
+✔ OTP Authentication
+
+✔ API Security
+
+✔ SQLAlchemy ORM
+
+✔ Authentication
+
+✔ RBAC
+
+✔ Rate Limiting
+
+✔ Middleware
+
+✔ Pagination
+
+✔ File Upload
+
+✔ Email Verification
+
+✔ Logging
+
+✔ Validation
+
+✔ CRUD
+
+✔ API Integration
+
+---
+
+# 🕷 Web Scraping
+
+Experienced in building Python automation and web scraping tools.
+
+### Libraries
+
+✔ BeautifulSoup
+
+✔ Selenium
+
+✔ Requests
+
+✔ Pandas
+
+### Capabilities
+
+✔ Product Scraping
+
+✔ News Scraping
+
+✔ Data Extraction
+
+✔ CSV Export
+
+✔ Excel Export
+
+✔ JSON APIs
+
+✔ Browser Automation
+
+---
+
+# 🏗 Architecture
+
+✔ Layered Architecture
+
+✔ Clean Architecture
+
+✔ Repository Pattern
+
+✔ Service Layer
+
+✔ MVC
+
+✔ REST APIs
+
+✔ Modular Applications
+
+✔ Scalable Backend
+
+---
+
+# 🏆 Certifications
+
+🏅 AWS Cloud Computing
+
+🏅 Artificial Intelligence
+
+🏅 Complete Java Course
+
+🏅 C Programming
+
+---
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis"/>
 
 </p>
 
 ---
 
-## ⚙ Backend Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=django,fastapi"/>
-
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev2814&theme=tokyonight"/>
 
 ---
 
-## 🌐 Frontend
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript"/>
-
-</p>
+> "Building scalable backend systems one API at a time."
 
 ---
 
-## 🗄 Database
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite"/>
-
-</p>
-
----
-
-## 🛠 Developer Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux"/>
-
-</p>
+<a href="YOUR_RESUME_LINK">
+<img src="https://img.shields.io/badge/Download%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+</a>
 
 ---
 
