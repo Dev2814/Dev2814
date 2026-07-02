@@ -184,36 +184,6 @@ class DevAmdavadi():
 
 ---
 
-# 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-
-```text
-Python          ████████████░░░░░   48%
-Django          ████████░░░░░░░░   24%
-FastAPI         █████░░░░░░░░░░░   12%
-SQL             ████░░░░░░░░░░░░    8%
-HTML/CSS        ██░░░░░░░░░░░░░░    5%
-Other           █░░░░░░░░░░░░░░░    3%
-
-<!--END_SECTION:waka-->
-
-
-*(You can connect WakaTime later for automatic updates.)*
-
----
-
-# 📌 Featured Repositories
-
-```markdown
-# 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|----------|-------------|------------|
-| 🛒 UrbanBazzar | Complete E-Commerce Platform | Django, MySQL |
-| ⚡ UrbanBazzar API | REST API Backend | FastAPI |
-| 🔐 UUID Authentication | Secure Authentication System | Django REST Framework |
-| 🌐 Portfolio | Personal Portfolio Website | HTML, CSS, JS |
 
 # 🚀 Featured Projects
 
